@@ -1,0 +1,3715 @@
+Dropped features:  ['Ratio_Int']
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense (Dense)               (None, 100)               5000      
+ dropout (Dropout)           (None, 100)               0         
+ dense_1 (Dense)             (None, 1)                 101       
+=================================================================
+Total params: 5,101
+Trainable params: 5,101
+Non-trainable params: 0
+_________________________________________________________________
+0.17742395495556101
+0.9335695
+Train on 1151616 samples, validate on 287904 samples
+Epoch 16: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_2 (Dense)             (None, 200)               10000     
+                                                                 
+ dropout_1 (Dropout)         (None, 200)               0         
+                                                                 
+ dense_3 (Dense)             (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 10,201
+Trainable params: 10,201
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.17205278478550576
+0.93518513
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_4 (Dense)             (None, 300)               15000     
+ dropout_2 (Dropout)         (None, 300)               0         
+ dense_5 (Dense)             (None, 1)                 301       
+=================================================================
+Total params: 15,301
+Trainable params: 15,301
+Non-trainable params: 0
+_________________________________________________________________
+0.17071380764254776
+0.93585366
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_6 (Dense)             (None, 100)               5000      
+ dropout_3 (Dropout)         (None, 100)               0         
+ dense_7 (Dense)             (None, 1)                 101       
+=================================================================
+Total params: 5,101
+Trainable params: 5,101
+Non-trainable params: 0
+_________________________________________________________________
+0.1881114207107805
+0.92984015
+Train on 1151616 samples, validate on 287904 samples
+Epoch 16: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_8 (Dense)             (None, 200)               10000     
+ dropout_4 (Dropout)         (None, 200)               0         
+ dense_9 (Dense)             (None, 1)                 201       
+=================================================================
+Total params: 10,201
+Trainable params: 10,201
+Non-trainable params: 0
+_________________________________________________________________
+0.17615417262475017
+0.93442154
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_10 (Dense)            (None, 300)               15000     
+ dropout_5 (Dropout)         (None, 300)               0         
+ dense_11 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 15,301
+Trainable params: 15,301
+Non-trainable params: 0
+_________________________________________________________________
+0.1762270574622797
+0.9341561
+Train on 1151616 samples, validate on 287904 samples
+Epoch 32: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_12 (Dense)            (None, 100)               5000      
+ dropout_6 (Dropout)         (None, 100)               0         
+ dense_13 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 5,101
+Trainable params: 5,101
+Non-trainable params: 0
+_________________________________________________________________
+0.17275712182667022
+0.9349623
+Train on 1151616 samples, validate on 287904 samples
+Epoch 17: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_14 (Dense)            (None, 200)               10000     
+ dropout_7 (Dropout)         (None, 200)               0         
+ dense_15 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 10,201
+Trainable params: 10,201
+Non-trainable params: 0
+_________________________________________________________________
+0.17355840073187953
+0.9349721
+Train on 1151616 samples, validate on 287904 samples
+Epoch 15: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_16 (Dense)            (None, 300)               15000     
+ dropout_8 (Dropout)         (None, 300)               0         
+ dense_17 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 15,301
+Trainable params: 15,301
+Non-trainable params: 0
+_________________________________________________________________
+0.17152256112688735
+0.9352834
+Train on 1151616 samples, validate on 287904 samples
+Epoch 24: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_18 (Dense)            (None, 100)               5000      
+ dropout_9 (Dropout)         (None, 100)               0         
+ dense_19 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 5,101
+Trainable params: 5,101
+Non-trainable params: 0
+_________________________________________________________________
+0.18389152257900707
+0.93159014
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_20 (Dense)            (None, 200)               10000     
+ dropout_10 (Dropout)        (None, 200)               0         
+ dense_21 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 10,201
+Trainable params: 10,201
+Non-trainable params: 0
+_________________________________________________________________
+0.18400648987373408
+0.931269
+Train on 1151616 samples, validate on 287904 samples
+Epoch 15: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_22 (Dense)            (None, 300)               15000     
+ dropout_11 (Dropout)        (None, 300)               0         
+ dense_23 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 15,301
+Trainable params: 15,301
+Non-trainable params: 0
+_________________________________________________________________
+0.17593086110076317
+0.9341004
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_24 (Dense)            (None, 100)               5000      
+ dropout_12 (Dropout)        (None, 100)               0         
+ dense_25 (Dense)            (None, 100)               10100     
+ dropout_13 (Dropout)        (None, 100)               0         
+ dense_26 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 15,201
+Trainable params: 15,201
+Non-trainable params: 0
+_________________________________________________________________
+0.16137582642994155
+0.93810177
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_27 (Dense)            (None, 100)               5000      
+ dropout_14 (Dropout)        (None, 100)               0         
+ dense_28 (Dense)            (None, 200)               20200     
+ dropout_15 (Dropout)        (None, 200)               0         
+ dense_29 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 25,401
+Trainable params: 25,401
+Non-trainable params: 0
+_________________________________________________________________
+0.16081688299041752
+0.9381411
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_30 (Dense)            (None, 100)               5000      
+ dropout_16 (Dropout)        (None, 100)               0         
+ dense_31 (Dense)            (None, 300)               30300     
+ dropout_17 (Dropout)        (None, 300)               0         
+ dense_32 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 35,601
+Trainable params: 35,601
+Non-trainable params: 0
+_________________________________________________________________
+0.1567585996849676
+0.93980587
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_33 (Dense)            (None, 200)               10000     
+ dropout_18 (Dropout)        (None, 200)               0         
+ dense_34 (Dense)            (None, 100)               20100     
+ dropout_19 (Dropout)        (None, 100)               0         
+ dense_35 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 30,201
+Trainable params: 30,201
+Non-trainable params: 0
+_________________________________________________________________
+0.1545361084392367
+0.9412019
+Train on 1151616 samples, validate on 287904 samples
+Epoch 17: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_36 (Dense)            (None, 200)               10000     
+ dropout_20 (Dropout)        (None, 200)               0         
+ dense_37 (Dense)            (None, 200)               40200     
+ dropout_21 (Dropout)        (None, 200)               0         
+ dense_38 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 50,401
+Trainable params: 50,401
+Non-trainable params: 0
+_________________________________________________________________
+0.14936286423505232
+0.9429388
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_39 (Dense)            (None, 200)               10000     
+ dropout_22 (Dropout)        (None, 200)               0         
+ dense_40 (Dense)            (None, 300)               60300     
+ dropout_23 (Dropout)        (None, 300)               0         
+ dense_41 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 70,601
+Trainable params: 70,601
+Non-trainable params: 0
+_________________________________________________________________
+0.15404459810641938
+0.940848
+Train on 1151616 samples, validate on 287904 samples
+Epoch 22: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_42 (Dense)            (None, 300)               15000     
+ dropout_24 (Dropout)        (None, 300)               0         
+ dense_43 (Dense)            (None, 100)               30100     
+ dropout_25 (Dropout)        (None, 100)               0         
+ dense_44 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 45,201
+Trainable params: 45,201
+Non-trainable params: 0
+_________________________________________________________________
+0.1462872537131926
+0.94384
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_45 (Dense)            (None, 300)               15000     
+ dropout_26 (Dropout)        (None, 300)               0         
+ dense_46 (Dense)            (None, 200)               60200     
+ dropout_27 (Dropout)        (None, 200)               0         
+ dense_47 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 75,401
+Trainable params: 75,401
+Non-trainable params: 0
+_________________________________________________________________
+0.1542053041837335
+0.94111013
+Train on 1151616 samples, validate on 287904 samples
+Epoch 6: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_48 (Dense)            (None, 300)               15000     
+ dropout_28 (Dropout)        (None, 300)               0         
+ dense_49 (Dense)            (None, 300)               90300     
+ dropout_29 (Dropout)        (None, 300)               0         
+ dense_50 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 105,601
+Trainable params: 105,601
+Non-trainable params: 0
+_________________________________________________________________
+0.1598083044608382
+0.93835735
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_51 (Dense)            (None, 100)               5000      
+ dropout_30 (Dropout)        (None, 100)               0         
+ dense_52 (Dense)            (None, 100)               10100     
+ dropout_31 (Dropout)        (None, 100)               0         
+ dense_53 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 15,201
+Trainable params: 15,201
+Non-trainable params: 0
+_________________________________________________________________
+0.1764623618809361
+0.93204236
+Train on 1151616 samples, validate on 287904 samples
+Epoch 15: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_54 (Dense)            (None, 100)               5000      
+ dropout_32 (Dropout)        (None, 100)               0         
+ dense_55 (Dense)            (None, 200)               20200     
+ dropout_33 (Dropout)        (None, 200)               0         
+ dense_56 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 25,401
+Trainable params: 25,401
+Non-trainable params: 0
+_________________________________________________________________
+0.1717189148839597
+0.93313694
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_57 (Dense)            (None, 100)               5000      
+ dropout_34 (Dropout)        (None, 100)               0         
+ dense_58 (Dense)            (None, 300)               30300     
+ dropout_35 (Dropout)        (None, 300)               0         
+ dense_59 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 35,601
+Trainable params: 35,601
+Non-trainable params: 0
+_________________________________________________________________
+0.17037987413567357
+0.9341397
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_60 (Dense)            (None, 200)               10000     
+ dropout_36 (Dropout)        (None, 200)               0         
+ dense_61 (Dense)            (None, 100)               20100     
+ dropout_37 (Dropout)        (None, 100)               0         
+ dense_62 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 30,201
+Trainable params: 30,201
+Non-trainable params: 0
+_________________________________________________________________
+0.1682435508328153
+0.93516874
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_63 (Dense)            (None, 200)               10000     
+ dropout_38 (Dropout)        (None, 200)               0         
+ dense_64 (Dense)            (None, 200)               40200     
+ dropout_39 (Dropout)        (None, 200)               0         
+ dense_65 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 50,401
+Trainable params: 50,401
+Non-trainable params: 0
+_________________________________________________________________
+0.16480235669082607
+0.9357586
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_66 (Dense)            (None, 200)               10000     
+ dropout_40 (Dropout)        (None, 200)               0         
+ dense_67 (Dense)            (None, 300)               60300     
+ dropout_41 (Dropout)        (None, 300)               0         
+ dense_68 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 70,601
+Trainable params: 70,601
+Non-trainable params: 0
+_________________________________________________________________
+0.16241272477663932
+0.9370662
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_69 (Dense)            (None, 300)               15000     
+ dropout_42 (Dropout)        (None, 300)               0         
+ dense_70 (Dense)            (None, 100)               30100     
+ dropout_43 (Dropout)        (None, 100)               0         
+ dense_71 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 45,201
+Trainable params: 45,201
+Non-trainable params: 0
+_________________________________________________________________
+0.16490344364043288
+0.9357521
+Train on 1151616 samples, validate on 287904 samples
+Epoch 20: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_72 (Dense)            (None, 300)               15000     
+ dropout_44 (Dropout)        (None, 300)               0         
+ dense_73 (Dense)            (None, 200)               60200     
+ dropout_45 (Dropout)        (None, 200)               0         
+ dense_74 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 75,401
+Trainable params: 75,401
+Non-trainable params: 0
+_________________________________________________________________
+0.15718887735229475
+0.9390816
+Train on 1151616 samples, validate on 287904 samples
+Epoch 20: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_75 (Dense)            (None, 300)               15000     
+ dropout_46 (Dropout)        (None, 300)               0         
+ dense_76 (Dense)            (None, 300)               90300     
+ dropout_47 (Dropout)        (None, 300)               0         
+ dense_77 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 105,601
+Trainable params: 105,601
+Non-trainable params: 0
+_________________________________________________________________
+0.15609670658437244
+0.94013685
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_78 (Dense)            (None, 100)               5000      
+ dropout_48 (Dropout)        (None, 100)               0         
+ dense_79 (Dense)            (None, 100)               10100     
+ dropout_49 (Dropout)        (None, 100)               0         
+ dense_80 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 15,201
+Trainable params: 15,201
+Non-trainable params: 0
+_________________________________________________________________
+0.16183238027032476
+0.9376954
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_81 (Dense)            (None, 100)               5000      
+ dropout_50 (Dropout)        (None, 100)               0         
+ dense_82 (Dense)            (None, 200)               20200     
+ dropout_51 (Dropout)        (None, 200)               0         
+ dense_83 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 25,401
+Trainable params: 25,401
+Non-trainable params: 0
+_________________________________________________________________
+0.15840736020706037
+0.93907505
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_84 (Dense)            (None, 100)               5000      
+ dropout_52 (Dropout)        (None, 100)               0         
+ dense_85 (Dense)            (None, 300)               30300     
+ dropout_53 (Dropout)        (None, 300)               0         
+ dense_86 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 35,601
+Trainable params: 35,601
+Non-trainable params: 0
+_________________________________________________________________
+0.16034103248738601
+0.9387277
+Train on 1151616 samples, validate on 287904 samples
+Epoch 24: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_87 (Dense)            (None, 200)               10000     
+ dropout_54 (Dropout)        (None, 200)               0         
+ dense_88 (Dense)            (None, 100)               20100     
+ dropout_55 (Dropout)        (None, 100)               0         
+ dense_89 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 30,201
+Trainable params: 30,201
+Non-trainable params: 0
+_________________________________________________________________
+0.15089078906556774
+0.9422178
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_90 (Dense)            (None, 200)               10000     
+ dropout_56 (Dropout)        (None, 200)               0         
+ dense_91 (Dense)            (None, 200)               40200     
+ dropout_57 (Dropout)        (None, 200)               0         
+ dense_92 (Dense)            (None, 1)                 201       
+=================================================================
+Total params: 50,401
+Trainable params: 50,401
+Non-trainable params: 0
+_________________________________________________________________
+0.15496837866346308
+0.9406317
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_93 (Dense)            (None, 200)               10000     
+ dropout_58 (Dropout)        (None, 200)               0         
+ dense_94 (Dense)            (None, 300)               60300     
+ dropout_59 (Dropout)        (None, 300)               0         
+ dense_95 (Dense)            (None, 1)                 301       
+=================================================================
+Total params: 70,601
+Trainable params: 70,601
+Non-trainable params: 0
+_________________________________________________________________
+0.1580467311929223
+0.93938637
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_96 (Dense)            (None, 300)               15000     
+ dropout_60 (Dropout)        (None, 300)               0         
+ dense_97 (Dense)            (None, 100)               30100     
+ dropout_61 (Dropout)        (None, 100)               0         
+ dense_98 (Dense)            (None, 1)                 101       
+=================================================================
+Total params: 45,201
+Trainable params: 45,201
+Non-trainable params: 0
+_________________________________________________________________
+0.15760823187192424
+0.93946505
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_99 (Dense)            (None, 300)               15000     
+ dropout_62 (Dropout)        (None, 300)               0         
+ dense_100 (Dense)           (None, 200)               60200     
+ dropout_63 (Dropout)        (None, 200)               0         
+ dense_101 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 75,401
+Trainable params: 75,401
+Non-trainable params: 0
+_________________________________________________________________
+0.15770514066428468
+0.9392389
+Train on 1151616 samples, validate on 287904 samples
+Epoch 6: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_102 (Dense)           (None, 300)               15000     
+ dropout_64 (Dropout)        (None, 300)               0         
+ dense_103 (Dense)           (None, 300)               90300     
+ dropout_65 (Dropout)        (None, 300)               0         
+ dense_104 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 105,601
+Trainable params: 105,601
+Non-trainable params: 0
+_________________________________________________________________
+0.15984822087955844
+0.93863595
+Train on 1151616 samples, validate on 287904 samples
+Epoch 17: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_105 (Dense)           (None, 100)               5000      
+ dropout_66 (Dropout)        (None, 100)               0         
+ dense_106 (Dense)           (None, 100)               10100     
+ dropout_67 (Dropout)        (None, 100)               0         
+ dense_107 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 15,201
+Trainable params: 15,201
+Non-trainable params: 0
+_________________________________________________________________
+0.1702113243400565
+0.93438876
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_108 (Dense)           (None, 100)               5000      
+ dropout_68 (Dropout)        (None, 100)               0         
+ dense_109 (Dense)           (None, 200)               20200     
+ dropout_69 (Dropout)        (None, 200)               0         
+ dense_110 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 25,401
+Trainable params: 25,401
+Non-trainable params: 0
+_________________________________________________________________
+0.17480984623106283
+0.93221605
+Train on 1151616 samples, validate on 287904 samples
+Epoch 15: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_111 (Dense)           (None, 100)               5000      
+ dropout_70 (Dropout)        (None, 100)               0         
+ dense_112 (Dense)           (None, 300)               30300     
+ dropout_71 (Dropout)        (None, 300)               0         
+ dense_113 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 35,601
+Trainable params: 35,601
+Non-trainable params: 0
+_________________________________________________________________
+0.17005053251843733
+0.93470997
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_114 (Dense)           (None, 200)               10000     
+ dropout_72 (Dropout)        (None, 200)               0         
+ dense_115 (Dense)           (None, 100)               20100     
+ dropout_73 (Dropout)        (None, 100)               0         
+ dense_116 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 30,201
+Trainable params: 30,201
+Non-trainable params: 0
+_________________________________________________________________
+0.16552756853287343
+0.93568
+Train on 1151616 samples, validate on 287904 samples
+Epoch 19: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_117 (Dense)           (None, 200)               10000     
+ dropout_74 (Dropout)        (None, 200)               0         
+ dense_118 (Dense)           (None, 200)               40200     
+ dropout_75 (Dropout)        (None, 200)               0         
+ dense_119 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 50,401
+Trainable params: 50,401
+Non-trainable params: 0
+_________________________________________________________________
+0.1617296650722221
+0.9370498
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_120 (Dense)           (None, 200)               10000     
+ dropout_76 (Dropout)        (None, 200)               0         
+ dense_121 (Dense)           (None, 300)               60300     
+ dropout_77 (Dropout)        (None, 300)               0         
+ dense_122 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 70,601
+Trainable params: 70,601
+Non-trainable params: 0
+_________________________________________________________________
+0.16579418711515503
+0.93608963
+Train on 1151616 samples, validate on 287904 samples
+Epoch 17: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_123 (Dense)           (None, 300)               15000     
+ dropout_78 (Dropout)        (None, 300)               0         
+ dense_124 (Dense)           (None, 100)               30100     
+ dropout_79 (Dropout)        (None, 100)               0         
+ dense_125 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 45,201
+Trainable params: 45,201
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15972330291103864
+0.9382951
+Train on 1151616 samples, validate on 287904 samples
+Epoch 20: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_126 (Dense)           (None, 300)               15000     
+ dropout_80 (Dropout)        (None, 300)               0         
+ dense_127 (Dense)           (None, 200)               60200     
+ dropout_81 (Dropout)        (None, 200)               0         
+ dense_128 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 75,401
+Trainable params: 75,401
+Non-trainable params: 0
+_________________________________________________________________
+0.15656292054148283
+0.93965185
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_129 (Dense)           (None, 300)               15000     
+ dropout_82 (Dropout)        (None, 300)               0         
+ dense_130 (Dense)           (None, 300)               90300     
+ dropout_83 (Dropout)        (None, 300)               0         
+ dense_131 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 105,601
+Trainable params: 105,601
+Non-trainable params: 0
+_________________________________________________________________
+0.16205930786994835
+0.93702686
+Train on 1151616 samples, validate on 287904 samples
+Epoch 16: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_132 (Dense)           (None, 100)               5000      
+ dropout_84 (Dropout)        (None, 100)               0         
+ dense_133 (Dense)           (None, 100)               10100     
+ dropout_85 (Dropout)        (None, 100)               0         
+ dense_134 (Dense)           (None, 100)               10100     
+ dropout_86 (Dropout)        (None, 100)               0         
+ dense_135 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 25,301
+Trainable params: 25,301
+Non-trainable params: 0
+_________________________________________________________________
+0.15759285248115115
+0.9393929
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_136 (Dense)           (None, 100)               5000      
+ dropout_87 (Dropout)        (None, 100)               0         
+ dense_137 (Dense)           (None, 100)               10100     
+ dropout_88 (Dropout)        (None, 100)               0         
+ dense_138 (Dense)           (None, 200)               20200     
+ dropout_89 (Dropout)        (None, 200)               0         
+ dense_139 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 35,501
+Trainable params: 35,501
+Non-trainable params: 0
+_________________________________________________________________
+0.15723147077771554
+0.9390357
+Train on 1151616 samples, validate on 287904 samples
+Epoch 18: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_140 (Dense)           (None, 100)               5000      
+ dropout_90 (Dropout)        (None, 100)               0         
+ dense_141 (Dense)           (None, 100)               10100     
+ dropout_91 (Dropout)        (None, 100)               0         
+ dense_142 (Dense)           (None, 300)               30300     
+ dropout_92 (Dropout)        (None, 300)               0         
+ dense_143 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 45,701
+Trainable params: 45,701
+Non-trainable params: 0
+_________________________________________________________________
+0.15482467961085597
+0.9403597
+Train on 1151616 samples, validate on 287904 samples
+Epoch 20: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_144 (Dense)           (None, 100)               5000      
+ dropout_93 (Dropout)        (None, 100)               0         
+ dense_145 (Dense)           (None, 200)               20200     
+ dropout_94 (Dropout)        (None, 200)               0         
+ dense_146 (Dense)           (None, 100)               20100     
+ dropout_95 (Dropout)        (None, 100)               0         
+ dense_147 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 45,401
+Trainable params: 45,401
+Non-trainable params: 0
+_________________________________________________________________
+0.1522689612140718
+0.9416574
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_148 (Dense)           (None, 100)               5000      
+ dropout_96 (Dropout)        (None, 100)               0         
+ dense_149 (Dense)           (None, 200)               20200     
+ dropout_97 (Dropout)        (None, 200)               0         
+ dense_150 (Dense)           (None, 200)               40200     
+ dropout_98 (Dropout)        (None, 200)               0         
+ dense_151 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 65,601
+Trainable params: 65,601
+Non-trainable params: 0
+_________________________________________________________________
+0.16270786370845058
+0.9370334
+Train on 1151616 samples, validate on 287904 samples
+Epoch 20: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_152 (Dense)           (None, 100)               5000      
+ dropout_99 (Dropout)        (None, 100)               0         
+ dense_153 (Dense)           (None, 200)               20200     
+ dropout_100 (Dropout)       (None, 200)               0         
+ dense_154 (Dense)           (None, 300)               60300     
+ dropout_101 (Dropout)       (None, 300)               0         
+ dense_155 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 85,801
+Trainable params: 85,801
+Non-trainable params: 0
+_________________________________________________________________
+0.15419775411041953
+0.9405858
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_156 (Dense)           (None, 100)               5000      
+ dropout_102 (Dropout)       (None, 100)               0         
+ dense_157 (Dense)           (None, 300)               30300     
+ dropout_103 (Dropout)       (None, 300)               0         
+ dense_158 (Dense)           (None, 100)               30100     
+ dropout_104 (Dropout)       (None, 100)               0         
+ dense_159 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 65,501
+Trainable params: 65,501
+Non-trainable params: 0
+_________________________________________________________________
+0.15457821534857624
+0.9403171
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_160 (Dense)           (None, 100)               5000      
+ dropout_105 (Dropout)       (None, 100)               0         
+ dense_161 (Dense)           (None, 300)               30300     
+ dropout_106 (Dropout)       (None, 300)               0         
+ dense_162 (Dense)           (None, 200)               60200     
+ dropout_107 (Dropout)       (None, 200)               0         
+ dense_163 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 95,701
+Trainable params: 95,701
+Non-trainable params: 0
+_________________________________________________________________
+0.15249402698324968
+0.9413199
+Train on 1151616 samples, validate on 287904 samples
+Epoch 18: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_164 (Dense)           (None, 100)               5000      
+ dropout_108 (Dropout)       (None, 100)               0         
+ dense_165 (Dense)           (None, 300)               30300     
+ dropout_109 (Dropout)       (None, 300)               0         
+ dense_166 (Dense)           (None, 300)               90300     
+ dropout_110 (Dropout)       (None, 300)               0         
+ dense_167 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 125,901
+Trainable params: 125,901
+Non-trainable params: 0
+_________________________________________________________________
+0.1516064394696095
+0.94185406
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_168 (Dense)           (None, 200)               10000     
+ dropout_111 (Dropout)       (None, 200)               0         
+ dense_169 (Dense)           (None, 100)               20100     
+ dropout_112 (Dropout)       (None, 100)               0         
+ dense_170 (Dense)           (None, 100)               10100     
+ dropout_113 (Dropout)       (None, 100)               0         
+ dense_171 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 40,301
+Trainable params: 40,301
+Non-trainable params: 0
+_________________________________________________________________
+0.15165789342210664
+0.94138217
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_172 (Dense)           (None, 200)               10000     
+ dropout_114 (Dropout)       (None, 200)               0         
+ dense_173 (Dense)           (None, 100)               20100     
+ dropout_115 (Dropout)       (None, 100)               0         
+ dense_174 (Dense)           (None, 200)               20200     
+ dropout_116 (Dropout)       (None, 200)               0         
+ dense_175 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 50,501
+Trainable params: 50,501
+Non-trainable params: 0
+_________________________________________________________________
+0.15599034238481263
+0.9398976
+Train on 1151616 samples, validate on 287904 samples
+Epoch 19: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_176 (Dense)           (None, 200)               10000     
+ dropout_117 (Dropout)       (None, 200)               0         
+ dense_177 (Dense)           (None, 100)               20100     
+ dropout_118 (Dropout)       (None, 100)               0         
+ dense_178 (Dense)           (None, 300)               30300     
+ dropout_119 (Dropout)       (None, 300)               0         
+ dense_179 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 60,701
+Trainable params: 60,701
+Non-trainable params: 0
+_________________________________________________________________
+0.15031216550908064
+0.94268644
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_180 (Dense)           (None, 200)               10000     
+ dropout_120 (Dropout)       (None, 200)               0         
+ dense_181 (Dense)           (None, 200)               40200     
+ dropout_121 (Dropout)       (None, 200)               0         
+ dense_182 (Dense)           (None, 100)               20100     
+ dropout_122 (Dropout)       (None, 100)               0         
+ dense_183 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 70,401
+Trainable params: 70,401
+Non-trainable params: 0
+_________________________________________________________________
+0.15340522271124743
+0.9410479
+Train on 1151616 samples, validate on 287904 samples
+Epoch 19: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_184 (Dense)           (None, 200)               10000     
+ dropout_123 (Dropout)       (None, 200)               0         
+ dense_185 (Dense)           (None, 200)               40200     
+ dropout_124 (Dropout)       (None, 200)               0         
+ dense_186 (Dense)           (None, 200)               40200     
+ dropout_125 (Dropout)       (None, 200)               0         
+ dense_187 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 90,601
+Trainable params: 90,601
+Non-trainable params: 0
+_________________________________________________________________
+0.14662023577423935
+0.94398093
+Train on 1151616 samples, validate on 287904 samples
+Epoch 20: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_188 (Dense)           (None, 200)               10000     
+ dropout_126 (Dropout)       (None, 200)               0         
+ dense_189 (Dense)           (None, 200)               40200     
+ dropout_127 (Dropout)       (None, 200)               0         
+ dense_190 (Dense)           (None, 300)               60300     
+ dropout_128 (Dropout)       (None, 300)               0         
+ dense_191 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 110,801
+Trainable params: 110,801
+Non-trainable params: 0
+_________________________________________________________________
+0.1476323093095349
+0.94308954
+Train on 1151616 samples, validate on 287904 samples
+Epoch 19: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_192 (Dense)           (None, 200)               10000     
+ dropout_129 (Dropout)       (None, 200)               0         
+ dense_193 (Dense)           (None, 300)               60300     
+ dropout_130 (Dropout)       (None, 300)               0         
+ dense_194 (Dense)           (None, 100)               30100     
+ dropout_131 (Dropout)       (None, 100)               0         
+ dense_195 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 100,501
+Trainable params: 100,501
+Non-trainable params: 0
+_________________________________________________________________
+0.14547916074699765
+0.94427913
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_196 (Dense)           (None, 200)               10000     
+ dropout_132 (Dropout)       (None, 200)               0         
+ dense_197 (Dense)           (None, 300)               60300     
+ dropout_133 (Dropout)       (None, 300)               0         
+ dense_198 (Dense)           (None, 200)               60200     
+ dropout_134 (Dropout)       (None, 200)               0         
+ dense_199 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 130,701
+Trainable params: 130,701
+Non-trainable params: 0
+_________________________________________________________________
+0.148602829734896
+0.943414
+Train on 1151616 samples, validate on 287904 samples
+Epoch 18: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_200 (Dense)           (None, 200)               10000     
+ dropout_135 (Dropout)       (None, 200)               0         
+ dense_201 (Dense)           (None, 300)               60300     
+ dropout_136 (Dropout)       (None, 300)               0         
+ dense_202 (Dense)           (None, 300)               90300     
+ dropout_137 (Dropout)       (None, 300)               0         
+ dense_203 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 160,901
+Trainable params: 160,901
+Non-trainable params: 0
+_________________________________________________________________
+0.1488860413515821
+0.94263077
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_204 (Dense)           (None, 300)               15000     
+ dropout_138 (Dropout)       (None, 300)               0         
+ dense_205 (Dense)           (None, 100)               30100     
+ dropout_139 (Dropout)       (None, 100)               0         
+ dense_206 (Dense)           (None, 100)               10100     
+ dropout_140 (Dropout)       (None, 100)               0         
+ dense_207 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 55,301
+Trainable params: 55,301
+Non-trainable params: 0
+_________________________________________________________________
+0.14909388574932983
+0.9428339
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_208 (Dense)           (None, 300)               15000     
+ dropout_141 (Dropout)       (None, 300)               0         
+ dense_209 (Dense)           (None, 100)               30100     
+ dropout_142 (Dropout)       (None, 100)               0         
+ dense_210 (Dense)           (None, 200)               20200     
+ dropout_143 (Dropout)       (None, 200)               0         
+ dense_211 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 65,501
+Trainable params: 65,501
+Non-trainable params: 0
+_________________________________________________________________
+0.14890243719784704
+0.94300103
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_212 (Dense)           (None, 300)               15000     
+ dropout_144 (Dropout)       (None, 300)               0         
+ dense_213 (Dense)           (None, 100)               30100     
+ dropout_145 (Dropout)       (None, 100)               0         
+ dense_214 (Dense)           (None, 300)               30300     
+ dropout_146 (Dropout)       (None, 300)               0         
+ dense_215 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 75,701
+Trainable params: 75,701
+Non-trainable params: 0
+_________________________________________________________________
+0.1524983847420805
+0.9411462
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_216 (Dense)           (None, 300)               15000     
+ dropout_147 (Dropout)       (None, 300)               0         
+ dense_217 (Dense)           (None, 200)               60200     
+ dropout_148 (Dropout)       (None, 200)               0         
+ dense_218 (Dense)           (None, 100)               20100     
+ dropout_149 (Dropout)       (None, 100)               0         
+ dense_219 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 95,401
+Trainable params: 95,401
+Non-trainable params: 0
+_________________________________________________________________
+0.1466327778652523
+0.9438924
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_220 (Dense)           (None, 300)               15000     
+ dropout_150 (Dropout)       (None, 300)               0         
+ dense_221 (Dense)           (None, 200)               60200     
+ dropout_151 (Dropout)       (None, 200)               0         
+ dense_222 (Dense)           (None, 200)               40200     
+ dropout_152 (Dropout)       (None, 200)               0         
+ dense_223 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 115,601
+Trainable params: 115,601
+Non-trainable params: 0
+_________________________________________________________________
+0.15090940962493232
+0.9419884
+Train on 1151616 samples, validate on 287904 samples
+Epoch 21: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_224 (Dense)           (None, 300)               15000     
+ dropout_153 (Dropout)       (None, 300)               0         
+ dense_225 (Dense)           (None, 200)               60200     
+ dropout_154 (Dropout)       (None, 200)               0         
+ dense_226 (Dense)           (None, 300)               60300     
+ dropout_155 (Dropout)       (None, 300)               0         
+ dense_227 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 135,801
+Trainable params: 135,801
+Non-trainable params: 0
+_________________________________________________________________
+0.14344475319325437
+0.94508857
+Train on 1151616 samples, validate on 287904 samples
+Epoch 17: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_228 (Dense)           (None, 300)               15000     
+ dropout_156 (Dropout)       (None, 300)               0         
+ dense_229 (Dense)           (None, 300)               90300     
+ dropout_157 (Dropout)       (None, 300)               0         
+ dense_230 (Dense)           (None, 100)               30100     
+ dropout_158 (Dropout)       (None, 100)               0         
+ dense_231 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 135,501
+Trainable params: 135,501
+Non-trainable params: 0
+_________________________________________________________________
+0.14432903446737777
+0.9446265
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_232 (Dense)           (None, 300)               15000     
+ dropout_159 (Dropout)       (None, 300)               0         
+ dense_233 (Dense)           (None, 300)               90300     
+ dropout_160 (Dropout)       (None, 300)               0         
+ dense_234 (Dense)           (None, 200)               60200     
+ dropout_161 (Dropout)       (None, 200)               0         
+ dense_235 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 165,701
+Trainable params: 165,701
+Non-trainable params: 0
+_________________________________________________________________
+0.14644609628997615
+0.9436598
+Train on 1151616 samples, validate on 287904 samples
+Epoch 21: early stopping
+batch: 256
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_236 (Dense)           (None, 300)               15000     
+ dropout_162 (Dropout)       (None, 300)               0         
+ dense_237 (Dense)           (None, 300)               90300     
+ dropout_163 (Dropout)       (None, 300)               0         
+ dense_238 (Dense)           (None, 300)               90300     
+ dropout_164 (Dropout)       (None, 300)               0         
+ dense_239 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 195,901
+Trainable params: 195,901
+Non-trainable params: 0
+_________________________________________________________________
+0.14371678957450748
+0.94474447
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_240 (Dense)           (None, 100)               5000      
+ dropout_165 (Dropout)       (None, 100)               0         
+ dense_241 (Dense)           (None, 100)               10100     
+ dropout_166 (Dropout)       (None, 100)               0         
+ dense_242 (Dense)           (None, 100)               10100     
+ dropout_167 (Dropout)       (None, 100)               0         
+ dense_243 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 25,301
+Trainable params: 25,301
+Non-trainable params: 0
+_________________________________________________________________
+0.17493246505597734
+0.93297637
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_244 (Dense)           (None, 100)               5000      
+ dropout_168 (Dropout)       (None, 100)               0         
+ dense_245 (Dense)           (None, 100)               10100     
+ dropout_169 (Dropout)       (None, 100)               0         
+ dense_246 (Dense)           (None, 200)               20200     
+ dropout_170 (Dropout)       (None, 200)               0         
+ dense_247 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 35,501
+Trainable params: 35,501
+Non-trainable params: 0
+_________________________________________________________________
+0.1734278204144491
+0.93357605
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_248 (Dense)           (None, 100)               5000      
+ dropout_171 (Dropout)       (None, 100)               0         
+ dense_249 (Dense)           (None, 100)               10100     
+ dropout_172 (Dropout)       (None, 100)               0         
+ dense_250 (Dense)           (None, 300)               30300     
+ dropout_173 (Dropout)       (None, 300)               0         
+ dense_251 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 45,701
+Trainable params: 45,701
+Non-trainable params: 0
+_________________________________________________________________
+0.17397722228284768
+0.93360883
+Train on 1151616 samples, validate on 287904 samples
+Epoch 6: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_252 (Dense)           (None, 100)               5000      
+ dropout_174 (Dropout)       (None, 100)               0         
+ dense_253 (Dense)           (None, 200)               20200     
+ dropout_175 (Dropout)       (None, 200)               0         
+ dense_254 (Dense)           (None, 100)               20100     
+ dropout_176 (Dropout)       (None, 100)               0         
+ dense_255 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 45,401
+Trainable params: 45,401
+Non-trainable params: 0
+_________________________________________________________________
+0.1764425933397678
+0.93263555
+Train on 1151616 samples, validate on 287904 samples
+Epoch 17: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_256 (Dense)           (None, 100)               5000      
+ dropout_177 (Dropout)       (None, 100)               0         
+ dense_257 (Dense)           (None, 200)               20200     
+ dropout_178 (Dropout)       (None, 200)               0         
+ dense_258 (Dense)           (None, 200)               40200     
+ dropout_179 (Dropout)       (None, 200)               0         
+ dense_259 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 65,601
+Trainable params: 65,601
+Non-trainable params: 0
+_________________________________________________________________
+0.17267668767395733
+0.9350868
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_260 (Dense)           (None, 100)               5000      
+ dropout_180 (Dropout)       (None, 100)               0         
+ dense_261 (Dense)           (None, 200)               20200     
+ dropout_181 (Dropout)       (None, 200)               0         
+ dense_262 (Dense)           (None, 300)               60300     
+ dropout_182 (Dropout)       (None, 300)               0         
+ dense_263 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 85,801
+Trainable params: 85,801
+Non-trainable params: 0
+_________________________________________________________________
+0.17647067797885777
+0.9328256
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_264 (Dense)           (None, 100)               5000      
+ dropout_183 (Dropout)       (None, 100)               0         
+ dense_265 (Dense)           (None, 300)               30300     
+ dropout_184 (Dropout)       (None, 300)               0         
+ dense_266 (Dense)           (None, 100)               30100     
+ dropout_185 (Dropout)       (None, 100)               0         
+ dense_267 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 65,501
+Trainable params: 65,501
+Non-trainable params: 0
+_________________________________________________________________
+0.1733439787733984
+0.9333663
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_268 (Dense)           (None, 100)               5000      
+ dropout_186 (Dropout)       (None, 100)               0         
+ dense_269 (Dense)           (None, 300)               30300     
+ dropout_187 (Dropout)       (None, 300)               0         
+ dense_270 (Dense)           (None, 200)               60200     
+ dropout_188 (Dropout)       (None, 200)               0         
+ dense_271 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 95,701
+Trainable params: 95,701
+Non-trainable params: 0
+_________________________________________________________________
+0.17191447856856976
+0.93448055
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_272 (Dense)           (None, 100)               5000      
+ dropout_189 (Dropout)       (None, 100)               0         
+ dense_273 (Dense)           (None, 300)               30300     
+ dropout_190 (Dropout)       (None, 300)               0         
+ dense_274 (Dense)           (None, 300)               90300     
+ dropout_191 (Dropout)       (None, 300)               0         
+ dense_275 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 125,901
+Trainable params: 125,901
+Non-trainable params: 0
+_________________________________________________________________
+0.1747603107873208
+0.934143
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_276 (Dense)           (None, 200)               10000     
+ dropout_192 (Dropout)       (None, 200)               0         
+ dense_277 (Dense)           (None, 100)               20100     
+ dropout_193 (Dropout)       (None, 100)               0         
+ dense_278 (Dense)           (None, 100)               10100     
+ dropout_194 (Dropout)       (None, 100)               0         
+ dense_279 (Dense)           (None, 1)                 101       
+=================================================================
+Total params: 40,301
+Trainable params: 40,301
+Non-trainable params: 0
+_________________________________________________________________
+0.1658514083519497
+0.9362404
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_280 (Dense)           (None, 200)               10000     
+ dropout_195 (Dropout)       (None, 200)               0         
+ dense_281 (Dense)           (None, 100)               20100     
+ dropout_196 (Dropout)       (None, 100)               0         
+ dense_282 (Dense)           (None, 200)               20200     
+ dropout_197 (Dropout)       (None, 200)               0         
+ dense_283 (Dense)           (None, 1)                 201       
+=================================================================
+Total params: 50,501
+Trainable params: 50,501
+Non-trainable params: 0
+_________________________________________________________________
+0.16442564423637376
+0.9366795
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_284 (Dense)           (None, 200)               10000     
+ dropout_198 (Dropout)       (None, 200)               0         
+ dense_285 (Dense)           (None, 100)               20100     
+ dropout_199 (Dropout)       (None, 100)               0         
+ dense_286 (Dense)           (None, 300)               30300     
+ dropout_200 (Dropout)       (None, 300)               0         
+ dense_287 (Dense)           (None, 1)                 301       
+=================================================================
+Total params: 60,701
+Trainable params: 60,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16532871133252244
+0.93627965
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_288 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_201 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_289 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_202 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_290 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_203 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_291 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 70,401
+Trainable params: 70,401
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1718961931153936
+0.93445104
+Train on 1151616 samples, validate on 287904 samples
+Epoch 15: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_292 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_204 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_293 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_205 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_294 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_206 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_295 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 90,601
+Trainable params: 90,601
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1616119890506092
+0.9381116
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_296 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_207 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_297 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_208 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_298 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_209 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_299 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 110,801
+Trainable params: 110,801
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16341393321301723
+0.9377216
+Train on 1151616 samples, validate on 287904 samples
+Epoch 16: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_300 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_210 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_301 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_211 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_302 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_212 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_303 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 100,501
+Trainable params: 100,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16333473955108693
+0.93704
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_304 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_213 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_305 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_214 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_306 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_215 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_307 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 130,701
+Trainable params: 130,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1641773515612161
+0.93780684
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_308 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_216 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_309 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_217 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_310 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_218 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_311 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 160,901
+Trainable params: 160,901
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1680703548366694
+0.93490654
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_312 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_219 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_313 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_220 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_314 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_221 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_315 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 55,301
+Trainable params: 55,301
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1609228157486554
+0.9380985
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_316 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_222 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_317 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_223 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_318 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_224 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_319 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 65,501
+Trainable params: 65,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16486221560572747
+0.936804
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_320 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_225 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_321 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_226 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_322 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_227 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_323 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 75,701
+Trainable params: 75,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16587970093735796
+0.93690234
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_324 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_228 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_325 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_229 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_326 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_230 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_327 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 95,401
+Trainable params: 95,401
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15820807785337904
+0.9391701
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_328 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_231 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_329 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_232 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_330 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_233 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_331 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 115,601
+Trainable params: 115,601
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16411855227706484
+0.9366926
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_332 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_234 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_333 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_235 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_334 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_236 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_335 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 135,801
+Trainable params: 135,801
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16490899019381489
+0.93684334
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_336 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_237 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_337 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_238 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_338 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_239 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_339 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 135,501
+Trainable params: 135,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1593328860991481
+0.93863595
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_340 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_240 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_341 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_241 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_342 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_242 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_343 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 165,701
+Trainable params: 165,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16106330610759312
+0.93830824
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 256
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_344 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_243 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_345 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_244 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_346 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_245 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_347 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 195,901
+Trainable params: 195,901
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16131197537536077
+0.9381378
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_348 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_246 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_349 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_247 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_350 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_248 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_351 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 25,301
+Trainable params: 25,301
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15932294428432534
+0.9379084
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_352 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_249 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_353 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_250 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_354 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_251 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_355 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 35,501
+Trainable params: 35,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1586515627238424
+0.939252
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_356 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_252 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_357 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_253 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_358 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_254 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_359 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 45,701
+Trainable params: 45,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15893630464767938
+0.93919635
+Train on 1151616 samples, validate on 287904 samples
+Epoch 18: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_360 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_255 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_361 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_256 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_362 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_257 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_363 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 45,401
+Trainable params: 45,401
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15290221495938325
+0.94143134
+Train on 1151616 samples, validate on 287904 samples
+Epoch 18: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_364 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_258 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_365 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_259 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_366 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_260 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_367 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 65,601
+Trainable params: 65,601
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15694761993966524
+0.9396092
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_368 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_261 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_369 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_262 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_370 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_263 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_371 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 85,801
+Trainable params: 85,801
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15662201801357128
+0.9399271
+Train on 1151616 samples, validate on 287904 samples
+Epoch 7: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_372 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_264 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_373 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_265 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_374 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_266 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_375 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 65,501
+Trainable params: 65,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15981719127754068
+0.9388293
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_376 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_267 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_377 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_268 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_378 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_269 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_379 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 95,701
+Trainable params: 95,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15546859173957533
+0.94035643
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_380 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_270 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_381 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_271 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_382 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_272 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_383 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 125,901
+Trainable params: 125,901
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15327740925611247
+0.941097
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_384 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_273 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_385 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_274 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_386 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_275 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_387 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 40,301
+Trainable params: 40,301
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15879195517630185
+0.93897676
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_388 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_276 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_389 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_277 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_390 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_278 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_391 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 50,501
+Trainable params: 50,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1513526750026625
+0.94174266
+Train on 1151616 samples, validate on 287904 samples
+Epoch 21: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_392 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_279 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_393 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_280 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_394 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_281 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_395 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 60,701
+Trainable params: 60,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.14986001807326665
+0.9424243
+Train on 1151616 samples, validate on 287904 samples
+Epoch 17: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_396 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_282 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_397 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_283 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_398 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_284 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_399 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 70,401
+Trainable params: 70,401
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1480130950917653
+0.942906
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_400 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_285 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_401 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_286 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_402 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_287 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_403 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 90,601
+Trainable params: 90,601
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15433548971744765
+0.94051045
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_404 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_288 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_405 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_289 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_406 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_290 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_407 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 110,801
+Trainable params: 110,801
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1507446194708175
+0.94235873
+Train on 1151616 samples, validate on 287904 samples
+Epoch 6: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_408 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_291 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_409 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_292 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_410 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_293 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_411 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 100,501
+Trainable params: 100,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1553301178999827
+0.9400156
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_412 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_294 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_413 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_295 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_414 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_296 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_415 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 130,701
+Trainable params: 130,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.14941186980120622
+0.94244725
+Train on 1151616 samples, validate on 287904 samples
+Epoch 16: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_416 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_297 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_417 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_298 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_418 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_299 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_419 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 160,901
+Trainable params: 160,901
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.14626092408296668
+0.94384325
+Train on 1151616 samples, validate on 287904 samples
+Epoch 24: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_420 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_300 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_421 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_301 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_422 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_302 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_423 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 55,301
+Trainable params: 55,301
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.145059197758004
+0.9442201
+Train on 1151616 samples, validate on 287904 samples
+Epoch 18: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_424 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_303 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_425 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_304 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_426 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_305 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_427 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 65,501
+Trainable params: 65,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.14690411414910776
+0.9437974
+Train on 1151616 samples, validate on 287904 samples
+Epoch 17: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_428 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_306 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_429 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_307 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_430 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_308 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_431 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 75,701
+Trainable params: 75,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.14753246781232765
+0.9434369
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_432 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_309 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_433 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_310 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_434 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_311 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_435 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 95,401
+Trainable params: 95,401
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15206877291853976
+0.9415067
+Train on 1151616 samples, validate on 287904 samples
+Epoch 24: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_436 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_312 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_437 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_313 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_438 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_314 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_439 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 115,601
+Trainable params: 115,601
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.14263327800068393
+0.94576365
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_440 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_315 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_441 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_316 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_442 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_317 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_443 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 135,801
+Trainable params: 135,801
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15004859864277148
+0.9422997
+Train on 1151616 samples, validate on 287904 samples
+Epoch 26: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_444 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_318 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_445 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_319 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_446 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_320 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_447 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 135,501
+Trainable params: 135,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.14191831896508744
+0.94578004
+Train on 1151616 samples, validate on 287904 samples
+Epoch 25: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_448 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_321 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_449 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_322 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_450 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_323 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_451 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 165,701
+Trainable params: 165,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.14100636563818214
+0.94603896
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 512
+dropout: 0.2
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_452 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_324 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_453 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_325 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_454 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_326 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_455 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 195,901
+Trainable params: 195,901
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1467692681341254
+0.9433026
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_456 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_327 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_457 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_328 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_458 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_329 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_459 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 25,301
+Trainable params: 25,301
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.174014354260848
+0.933445
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_460 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_330 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_461 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_331 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_462 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_332 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_463 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 35,501
+Trainable params: 35,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.17300214925913412
+0.9330484
+Train on 1151616 samples, validate on 287904 samples
+Epoch 20: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_464 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_333 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_465 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_334 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_466 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_335 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_467 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 45,701
+Trainable params: 45,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.17049737998818992
+0.9344281
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_468 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_336 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_469 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_337 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_470 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_338 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_471 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 45,401
+Trainable params: 45,401
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.17320255017026334
+0.93340564
+Train on 1151616 samples, validate on 287904 samples
+Epoch 15: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_472 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_339 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_473 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_340 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_474 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_341 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_475 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 65,601
+Trainable params: 65,601
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1727998932519322
+0.93412006
+Train on 1151616 samples, validate on 287904 samples
+Epoch 6: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_476 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_342 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_477 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_343 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_478 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_344 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_479 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 85,801
+Trainable params: 85,801
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1768865524570731
+0.93296653
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_480 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_345 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_481 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_346 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_482 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_347 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_483 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 65,501
+Trainable params: 65,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.17225453030478022
+0.9341135
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_484 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_348 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_485 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_349 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_486 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_350 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_487 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 95,701
+Trainable params: 95,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.17216303764013446
+0.9342249
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_488 (Dense)           (None, 100)               5000      
+                                                                 
+ dropout_351 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_489 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_352 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_490 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_353 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_491 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 125,901
+Trainable params: 125,901
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1747080728315083
+0.9330189
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_492 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_354 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_493 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_355 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_494 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_356 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_495 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 40,301
+Trainable params: 40,301
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1657170234886349
+0.93608636
+Train on 1151616 samples, validate on 287904 samples
+Epoch 14: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_496 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_357 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_497 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_358 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_498 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_359 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_499 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 50,501
+Trainable params: 50,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1651743359059822
+0.9360536
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_500 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_360 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_501 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_361 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_502 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_362 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_503 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 60,701
+Trainable params: 60,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16711206776845747
+0.9357586
+Train on 1151616 samples, validate on 287904 samples
+Epoch 23: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_504 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_363 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_505 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_364 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_506 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_365 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_507 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 70,401
+Trainable params: 70,401
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1605129663536259
+0.93853104
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_508 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_366 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_509 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_367 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_510 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_368 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_511 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 90,601
+Trainable params: 90,601
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16464120924155787
+0.9365845
+Train on 1151616 samples, validate on 287904 samples
+Epoch 19: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_512 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_369 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_513 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_370 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_514 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_371 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_515 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 110,801
+Trainable params: 110,801
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1607781876450088
+0.9382427
+Train on 1151616 samples, validate on 287904 samples
+Epoch 12: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_516 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_372 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_517 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_373 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_518 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_374 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_519 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 100,501
+Trainable params: 100,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16348015406377678
+0.93676144
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_520 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_375 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_521 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_376 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_522 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_377 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_523 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 130,701
+Trainable params: 130,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16427125913564725
+0.93665326
+Train on 1151616 samples, validate on 287904 samples
+Epoch 11: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_524 (Dense)           (None, 200)               10000     
+                                                                 
+ dropout_378 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_525 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_379 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_526 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_380 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_527 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 160,901
+Trainable params: 160,901
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16456533139573806
+0.93662375
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_528 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_381 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_529 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_382 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_530 (Dense)           (None, 100)               10100     
+                                                                 
+ dropout_383 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_531 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 55,301
+Trainable params: 55,301
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16328766021910027
+0.9373218
+Train on 1151616 samples, validate on 287904 samples
+Epoch 13: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_532 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_384 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_533 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_385 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_534 (Dense)           (None, 200)               20200     
+                                                                 
+ dropout_386 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_535 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 65,501
+Trainable params: 65,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16106613587002103
+0.93785924
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_536 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_387 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_537 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_388 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_538 (Dense)           (None, 300)               30300     
+                                                                 
+ dropout_389 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_539 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 75,701
+Trainable params: 75,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16399539542376676
+0.93666965
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_540 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_390 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_541 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_391 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_542 (Dense)           (None, 100)               20100     
+                                                                 
+ dropout_392 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_543 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 95,401
+Trainable params: 95,401
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16248900027508326
+0.9377216
+Train on 1151616 samples, validate on 287904 samples
+Epoch 9: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_544 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_393 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_545 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_394 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_546 (Dense)           (None, 200)               40200     
+                                                                 
+ dropout_395 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_547 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 115,601
+Trainable params: 115,601
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16104317039431423
+0.9378461
+Train on 1151616 samples, validate on 287904 samples
+Epoch 18: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_548 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_396 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_549 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_397 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_550 (Dense)           (None, 300)               60300     
+                                                                 
+ dropout_398 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_551 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 135,801
+Trainable params: 135,801
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.15673112962135527
+0.93985176
+Train on 1151616 samples, validate on 287904 samples
+Epoch 8: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_552 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_399 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_553 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_400 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_554 (Dense)           (None, 100)               30100     
+                                                                 
+ dropout_401 (Dropout)       (None, 100)               0         
+                                                                 
+ dense_555 (Dense)           (None, 1)                 101       
+                                                                 
+=================================================================
+Total params: 135,501
+Trainable params: 135,501
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16703145387117743
+0.93460834
+Train on 1151616 samples, validate on 287904 samples
+Epoch 18: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_556 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_402 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_557 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_403 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_558 (Dense)           (None, 200)               60200     
+                                                                 
+ dropout_404 (Dropout)       (None, 200)               0         
+                                                                 
+ dense_559 (Dense)           (None, 1)                 201       
+                                                                 
+=================================================================
+Total params: 165,701
+Trainable params: 165,701
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.1559915838508857
+0.9402876
+Train on 1151616 samples, validate on 287904 samples
+Epoch 10: early stopping
+batch: 512
+dropout: 0.5
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_560 (Dense)           (None, 300)               15000     
+                                                                 
+ dropout_405 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_561 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_406 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_562 (Dense)           (None, 300)               90300     
+                                                                 
+ dropout_407 (Dropout)       (None, 300)               0         
+                                                                 
+ dense_563 (Dense)           (None, 1)                 301       
+                                                                 
+=================================================================
+Total params: 195,901
+Trainable params: 195,901
+Non-trainable params: 0
+_________________________________________________________________
+None
+0.16031923114461966
+0.938767
