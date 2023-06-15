@@ -1,5 +1,5 @@
 # dga-explainability
-Code and Result repository for the paper "SHAP Interpretations of Tree and Neural Network DNS Classifiers for Analyzing DGA Family Characteristics" under review by IEEE Access.  
+Code and Result repository for the paper "SHAP Interpretations of Tree and Neural Network DNS Classifiers for Analyzing DGA Family Characteristics" accepted by IEEE Access.  
   
 Implementation folder: Code for reproducing our experiments organized as follows:   
 - filter_tranco_names: Code to obtain Tranco List and filter it to exclude DGA names. DGA names are provided by the DGArchive repository.  
